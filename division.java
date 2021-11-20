@@ -4,6 +4,6 @@ class Division
 	{
 		int c = 12;
 		int d = 14;
-		System.out.println(c/d);
+		System.out.println(d/c);
 	}
 }
